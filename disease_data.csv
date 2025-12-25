@@ -1,0 +1,11 @@
+Patient_ID,Age,Disease,Recovery_Days,Recovered
+1,25,Diabetes,30,1
+2,34,Cancer,120,0
+3,45,Flu,7,1
+4,23,Flu,5,1
+5,56,Diabetes,45,1
+6,40,Cancer,150,0
+7,60,Heart Disease,200,0
+8,29,Flu,6,1
+9,38,Diabetes,40,1
+10,50,Heart Disease,180,0
